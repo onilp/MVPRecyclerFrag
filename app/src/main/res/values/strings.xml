@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MVPRecyclerFrag</string>
+    <string name="name">Name :</string>
+    <string name="enter_name">Enter name :</string>
+    <string name="ok">OK</string>
+</resources>
